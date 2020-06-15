@@ -1,0 +1,42 @@
+body {
+	background-color: #00b3b3;
+	font-family:  Garamond;
+}
+
+h1 {
+	text-align: center;
+	font-size: 70px;
+	color: white;
+}
+
+h2 {
+	text-align: center;
+	font-size: 60px;
+	color:white;
+}
+
+#container {
+	text-align: center;
+	border: 3px solid white;
+	border-radius: 10px;
+}
+
+#container2 {
+	text-align: center;
+	border-style: double;
+	border: 10px solid white ;
+	border-radius: 60px;
+	font-size: 20px;
+	color: white
+}
+
+#container3 {
+	text-align: center;
+	border-radius: 100px;
+	border-color: white;
+	border: 3px solid white;
+	font-size: 30px;
+	color: white;
+	font-weight: 400;
+	font-style: bold;
+}

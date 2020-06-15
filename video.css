@@ -1,0 +1,16 @@
+body {
+	background-color: #00b3b3;
+	font-family:  Garamond;
+}
+
+h1 {
+	text-align: center;
+	font-size: 70px;
+	color: white;
+}
+
+p {
+  text-align:center;
+  border: 5px solid white;
+	border-radius: 30px;
+}
